@@ -12,6 +12,8 @@ public class Main {
         sc = new Scanner(System.in);
         int selection = Integer.parseInt(sc.nextLine());
 
+        // Ajout branche
+
         if (selection == 1) {
             System.out.println("Le jeu va démarrer...");
         } else if (selection == 2) {
